@@ -11,5 +11,5 @@ while True:
     time.sleep(1)
     ser.write(b'y')
     time.sleep(1)
-    ser.write(b'90')
+    ser.write(b'50')
     time.sleep(1)
